@@ -1,14 +1,14 @@
-(1) Description: 
+## (1) Description: 
 
 The internet is flooded with news articles daily, making it difficult for readers to consume and process long pieces of information.
 Summarization helps compress these articles into concise summaries without losing the core message.
 The project explores how state-of-the-art NLP models, particularly T5, can be used to automatically generate high-quality summaries of Indian news articles.
 The solution aims to be language-aware, context-sensitive, and scalable for real-world news summarization applications.
 
-(2) Duration:
+## (2) Duration:
 Feb 2025- April 2025
 
-(3) Methodology:
+## (3) Methodology:
 
 - Dataset Preparation 
 Source: Custom CSV file with 4500+ Indian news articles and human-written summaries.
